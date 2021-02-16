@@ -2,10 +2,10 @@
 Shows you the people who don't follow you back. A bot based on Selenium.
 
 Prequirements: 
--> Instagram account
--> Selenium - pip install selenium
--> Latest Chrome Browser located at C:\Program Files (x86)\Google\Chrome\Application\chrome.exe - modify the Path in __init__
--> Latest chromedriver.exe located in the same folder as the script
+- Instagram account
+- Selenium - pip install selenium
+- Latest Chrome Browser located at C:\Program Files (x86)\Google\Chrome\Application\chrome.exe - modify the Path in __init__
+- Latest chromedriver.exe located in the same folder as the script
 
 You will need to provide your username and password
 This script does not save and export your credentials! It runs only locally and does not make a connection
@@ -21,4 +21,4 @@ XPath might be different when you use it. If the script can't access an element 
 correct XPath. Please inspect the named element and copy the XPath.
 
 Have fun!
-- Blank
+Blank
